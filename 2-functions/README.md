@@ -144,7 +144,7 @@ Translate the rest of the geometric formulas found <a href="http://www.gbcnv.edu
 
 1. Compound interest can be calculated with the formula:
 
-    ![future value](img/future-value.png)
+    ![future value](future-value.png)
 
     - *F*: future value
     - *P*: present value
