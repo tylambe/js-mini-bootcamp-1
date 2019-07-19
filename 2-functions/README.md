@@ -24,7 +24,7 @@ Before getting started, make sure that you have a JavaScript console open (like 
 2. Write a sentence in plain English describing how `square(square(15))` is
    evaluated.
 
-3. Rename the parameter to `square` in your above code to `monkey`, and
+3. Rename `square`'s `num` parameter in your above code to `monkey`, and
    rename the uses of that parameter in the body to `monkey` as well. Will the
    function `square` still work? Why or why not?
 
