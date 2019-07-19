@@ -41,7 +41,7 @@ Before getting started, make sure that you have a JavaScript console open (like 
 
    For example, the following grades should be returned given these scores:
 
-   + 'A' > 90
+   + 'A' >= 90
    + 'B' >= 80
    + 'C' >= 70
    + 'D' >= 60
